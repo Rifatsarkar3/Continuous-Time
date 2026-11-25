@@ -1,0 +1,15 @@
+{"key": "dataset=xjtu|fold=0|predictor=ctgru|process=full|seed=42", "theta_mismatch": 0, "max_dtheta": 0.0, "flag_mismatch": 0, "outcome_mismatch": 0, "max_doutcome": 0.0}
+{"key": "dataset=xjtu|fold=1|predictor=ctgru|process=full|seed=42", "theta_mismatch": 0, "max_dtheta": 0.0, "flag_mismatch": 0, "outcome_mismatch": 0, "max_doutcome": 0.0}
+{"key": "dataset=xjtu|fold=2|predictor=ctgru|process=full|seed=42", "theta_mismatch": 0, "max_dtheta": 0.0, "flag_mismatch": 0, "outcome_mismatch": 0, "max_doutcome": 0.0}
+{"key": "dataset=xjtu|fold=3|predictor=ctgru|process=full|seed=42", "theta_mismatch": 0, "max_dtheta": 0.0, "flag_mismatch": 0, "outcome_mismatch": 0, "max_doutcome": 0.0}
+{"key": "dataset=xjtu|fold=4|predictor=ctgru|process=full|seed=42", "theta_mismatch": 0, "max_dtheta": 0.0, "flag_mismatch": 0, "outcome_mismatch": 0, "max_doutcome": 0.0}
+{"key": "dataset=xjtu|fold=0|predictor=ctgru|process=full|seed=123", "theta_mismatch": 0, "max_dtheta": 0.0, "flag_mismatch": 0, "outcome_mismatch": 0, "max_doutcome": 0.0}
+{"key": "dataset=xjtu|fold=1|predictor=ctgru|process=full|seed=123", "theta_mismatch": 0, "max_dtheta": 0.0, "flag_mismatch": 0, "outcome_mismatch": 0, "max_doutcome": 0.0}
+{"key": "dataset=xjtu|fold=2|predictor=ctgru|process=full|seed=123", "theta_mismatch": 0, "max_dtheta": 0.0, "flag_mismatch": 0, "outcome_mismatch": 0, "max_doutcome": 0.0}
+{"key": "dataset=xjtu|fold=3|predictor=ctgru|process=full|seed=123", "theta_mismatch": 0, "max_dtheta": 0.0, "flag_mismatch": 0, "outcome_mismatch": 0, "max_doutcome": 0.0}
+{"key": "dataset=xjtu|fold=4|predictor=ctgru|process=full|seed=123", "theta_mismatch": 0, "max_dtheta": 0.0, "flag_mismatch": 0, "outcome_mismatch": 0, "max_doutcome": 0.0}
+{"key": "dataset=xjtu|fold=0|predictor=ctgru|process=full|seed=777", "theta_mismatch": 0, "max_dtheta": 0.0, "flag_mismatch": 0, "outcome_mismatch": 0, "max_doutcome": 0.0}
+{"key": "dataset=xjtu|fold=1|predictor=ctgru|process=full|seed=777", "theta_mismatch": 0, "max_dtheta": 0.0, "flag_mismatch": 0, "outcome_mismatch": 0, "max_doutcome": 0.0}
+{"key": "dataset=xjtu|fold=2|predictor=ctgru|process=full|seed=777", "theta_mismatch": 0, "max_dtheta": 0.0, "flag_mismatch": 0, "outcome_mismatch": 0, "max_doutcome": 0.0}
+{"key": "dataset=xjtu|fold=3|predictor=ctgru|process=full|seed=777", "theta_mismatch": 0, "max_dtheta": 0.0, "flag_mismatch": 0, "outcome_mismatch": 0, "max_doutcome": 0.0}
+{"key": "dataset=xjtu|fold=4|predictor=ctgru|process=full|seed=777", "theta_mismatch": 0, "max_dtheta": 0.0, "flag_mismatch": 0, "outcome_mismatch": 0, "max_doutcome": 0.0}

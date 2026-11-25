@@ -1,0 +1,15 @@
+{"key": "dataset=xjtu|fold=0|predictor=dsaflite|process=full|seed=42", "theta_mismatch": 3, "max_dtheta": 0.025000000000000022, "flag_mismatch": 0, "outcome_mismatch": 5, "max_doutcome": 0.0023053307086229324}
+{"key": "dataset=xjtu|fold=1|predictor=dsaflite|process=full|seed=42", "theta_mismatch": 6, "max_dtheta": 0.0050000000000000044, "flag_mismatch": 0, "outcome_mismatch": 10, "max_doutcome": 0.02773437462747097}
+{"key": "dataset=xjtu|fold=2|predictor=dsaflite|process=full|seed=42", "theta_mismatch": 9, "max_dtheta": 0.020000000000000018, "flag_mismatch": 0, "outcome_mismatch": 4, "max_doutcome": 0.00039062462747097015}
+{"key": "dataset=xjtu|fold=3|predictor=dsaflite|process=full|seed=42", "theta_mismatch": 3, "max_dtheta": 0.0050000000000000044, "flag_mismatch": 0, "outcome_mismatch": 9, "max_doutcome": 0.0049761151894927025}
+{"key": "dataset=xjtu|fold=4|predictor=dsaflite|process=full|seed=42", "theta_mismatch": 3, "max_dtheta": 0.0050000000000000044, "flag_mismatch": 0, "outcome_mismatch": 4, "max_doutcome": 0.005530975759029388}
+{"key": "dataset=xjtu|fold=0|predictor=dsaflite|process=full|seed=123", "theta_mismatch": 3, "max_dtheta": 0.04500000000000004, "flag_mismatch": 0, "outcome_mismatch": 10, "max_doutcome": 0.025168918073177338}
+{"key": "dataset=xjtu|fold=1|predictor=dsaflite|process=full|seed=123", "theta_mismatch": 0, "max_dtheta": 0.0, "flag_mismatch": 0, "outcome_mismatch": 1, "max_doutcome": 0.00180785171687603}
+{"key": "dataset=xjtu|fold=2|predictor=dsaflite|process=full|seed=123", "theta_mismatch": 3, "max_dtheta": 0.0050000000000000044, "flag_mismatch": 0, "outcome_mismatch": 4, "max_doutcome": 0.125}
+{"key": "dataset=xjtu|fold=3|predictor=dsaflite|process=full|seed=123", "theta_mismatch": 9, "max_dtheta": 0.010000000000000009, "flag_mismatch": 0, "outcome_mismatch": 6, "max_doutcome": 0.00976562686264515}
+{"key": "dataset=xjtu|fold=4|predictor=dsaflite|process=full|seed=123", "theta_mismatch": 6, "max_dtheta": 0.015000000000000013, "flag_mismatch": 0, "outcome_mismatch": 5, "max_doutcome": 0.002148440107703209}
+{"key": "dataset=xjtu|fold=0|predictor=dsaflite|process=full|seed=777", "theta_mismatch": 3, "max_dtheta": 0.0050000000000000044, "flag_mismatch": 0, "outcome_mismatch": 8, "max_doutcome": 0.00486680306494236}
+{"key": "dataset=xjtu|fold=1|predictor=dsaflite|process=full|seed=777", "theta_mismatch": 0, "max_dtheta": 0.0, "flag_mismatch": 0, "outcome_mismatch": 4, "max_doutcome": 0.00045090168714523315}
+{"key": "dataset=xjtu|fold=2|predictor=dsaflite|process=full|seed=777", "theta_mismatch": 9, "max_dtheta": 0.0050000000000000044, "flag_mismatch": 0, "outcome_mismatch": 8, "max_doutcome": 0.03436674119438976}
+{"key": "dataset=xjtu|fold=3|predictor=dsaflite|process=full|seed=777", "theta_mismatch": 3, "max_dtheta": 0.015000000000000013, "flag_mismatch": 0, "outcome_mismatch": 6, "max_doutcome": 0.03125}
+{"key": "dataset=xjtu|fold=4|predictor=dsaflite|process=full|seed=777", "theta_mismatch": 3, "max_dtheta": 0.025000000000000022, "flag_mismatch": 0, "outcome_mismatch": 4, "max_doutcome": 0.0006756782531738281}

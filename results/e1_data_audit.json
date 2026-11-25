@@ -1,0 +1,374 @@
+{
+  "provenance": {
+    "generated_at_utc": "2026-09-20T02:30:58+00:00",
+    "git_commit": "1c2aec21fe1bd462297fbbf975430d639dbf1bb9",
+    "pronostia_rebuilt_this_run": false
+  },
+  "pronostia_manifest": {
+    "Bearing1_1": {
+      "n": 2803,
+      "condition": 1,
+      "source": "Learning_set"
+    },
+    "Bearing1_2": {
+      "n": 871,
+      "condition": 1,
+      "source": "Learning_set"
+    },
+    "Bearing2_1": {
+      "n": 911,
+      "condition": 2,
+      "source": "Learning_set"
+    },
+    "Bearing2_2": {
+      "n": 797,
+      "condition": 2,
+      "source": "Learning_set"
+    },
+    "Bearing3_1": {
+      "n": 515,
+      "condition": 3,
+      "source": "Learning_set"
+    },
+    "Bearing3_2": {
+      "n": 1637,
+      "condition": 3,
+      "source": "Learning_set"
+    },
+    "Bearing1_3": {
+      "n": 2375,
+      "condition": 1,
+      "source": "Full_Test_Set"
+    },
+    "Bearing1_4": {
+      "n": 1428,
+      "condition": 1,
+      "source": "Full_Test_Set"
+    },
+    "Bearing1_5": {
+      "n": 2463,
+      "condition": 1,
+      "source": "Full_Test_Set"
+    },
+    "Bearing1_6": {
+      "n": 2448,
+      "condition": 1,
+      "source": "Full_Test_Set"
+    },
+    "Bearing1_7": {
+      "n": 2259,
+      "condition": 1,
+      "source": "Full_Test_Set"
+    },
+    "Bearing2_3": {
+      "n": 1955,
+      "condition": 2,
+      "source": "Full_Test_Set"
+    },
+    "Bearing2_4": {
+      "n": 751,
+      "condition": 2,
+      "source": "Full_Test_Set"
+    },
+    "Bearing2_5": {
+      "n": 2311,
+      "condition": 2,
+      "source": "Full_Test_Set"
+    },
+    "Bearing2_6": {
+      "n": 701,
+      "condition": 2,
+      "source": "Full_Test_Set"
+    },
+    "Bearing2_7": {
+      "n": 230,
+      "condition": 2,
+      "source": "Full_Test_Set"
+    },
+    "Bearing3_3": {
+      "n": 434,
+      "condition": 3,
+      "source": "Full_Test_Set"
+    }
+  },
+  "pronostia_processed_audit": {
+    "Bearing1_1": {
+      "n_raw": 2803,
+      "n_processed": 2803,
+      "extra_windows": 0,
+      "first_window_matches": true,
+      "interior_checked": [
+        700,
+        1401,
+        2102
+      ],
+      "interior_matches": true,
+      "raw_end_found_at_index": 2802,
+      "rms_last_raw": 5.6075620673835855,
+      "verdict": "ok"
+    },
+    "Bearing1_2": {
+      "n_raw": 871,
+      "n_processed": 871,
+      "extra_windows": 0,
+      "first_window_matches": true,
+      "interior_checked": [
+        217,
+        435,
+        653
+      ],
+      "interior_matches": true,
+      "raw_end_found_at_index": 870,
+      "rms_last_raw": 2.2343789494037307,
+      "verdict": "ok"
+    },
+    "Bearing2_1": {
+      "n_raw": 911,
+      "n_processed": 911,
+      "extra_windows": 0,
+      "first_window_matches": true,
+      "interior_checked": [
+        227,
+        455,
+        683
+      ],
+      "interior_matches": true,
+      "raw_end_found_at_index": 910,
+      "rms_last_raw": 2.374141400919955,
+      "verdict": "ok"
+    },
+    "Bearing2_2": {
+      "n_raw": 797,
+      "n_processed": 797,
+      "extra_windows": 0,
+      "first_window_matches": true,
+      "interior_checked": [
+        199,
+        398,
+        597
+      ],
+      "interior_matches": true,
+      "raw_end_found_at_index": 796,
+      "rms_last_raw": 1.9628470976485168,
+      "verdict": "ok"
+    },
+    "Bearing1_3": {
+      "n_raw": 2375,
+      "n_processed": 2375,
+      "extra_windows": 0,
+      "first_window_matches": true,
+      "interior_checked": [
+        593,
+        1187,
+        1781
+      ],
+      "interior_matches": true,
+      "raw_end_found_at_index": 2374,
+      "rms_last_raw": 9.245942274567579,
+      "verdict": "ok"
+    },
+    "Bearing1_4": {
+      "n_raw": 1428,
+      "n_processed": 1665,
+      "extra_windows": 237,
+      "first_window_matches": true,
+      "interior_checked": [
+        357,
+        714,
+        1071
+      ],
+      "interior_matches": true,
+      "raw_end_found_at_index": 1427,
+      "rms_last_raw": 9.332577363454403,
+      "verdict": "extra_windows_after_raw_end",
+      "rms_extra_first": 35.42320564618057,
+      "rms_extra_median": 58.867862987764404,
+      "rms_extra_last": 16.90656036255281
+    },
+    "Bearing1_5": {
+      "n_raw": 2463,
+      "n_processed": 2873,
+      "extra_windows": 410,
+      "first_window_matches": true,
+      "interior_checked": [
+        615,
+        1231,
+        1847
+      ],
+      "interior_matches": true,
+      "raw_end_found_at_index": 2462,
+      "rms_last_raw": 1.3964395601270922,
+      "verdict": "extra_windows_after_raw_end",
+      "rms_extra_first": 33.42430210738934,
+      "rms_extra_median": 48.3662266521272,
+      "rms_extra_last": 35.69824126627339
+    },
+    "Bearing2_3": {
+      "n_raw": 1955,
+      "n_processed": 1955,
+      "extra_windows": 0,
+      "first_window_matches": true,
+      "interior_checked": [
+        488,
+        977,
+        1466
+      ],
+      "interior_matches": true,
+      "raw_end_found_at_index": 1954,
+      "rms_last_raw": 7.260362697208735,
+      "verdict": "ok"
+    }
+  },
+  "xjtu_processed_audit": {
+    "Bearing1_3": {
+      "files": 158,
+      "windows": 1896,
+      "count_ok": true,
+      "first": true,
+      "second_file": true,
+      "middle_file": true,
+      "last_file": true,
+      "verdict": "ok"
+    },
+    "Bearing1_4": {
+      "files": 122,
+      "windows": 1464,
+      "count_ok": true,
+      "first": true,
+      "second_file": true,
+      "middle_file": true,
+      "last_file": true,
+      "verdict": "ok"
+    },
+    "Bearing1_5": {
+      "files": 52,
+      "windows": 624,
+      "count_ok": true,
+      "first": true,
+      "second_file": true,
+      "middle_file": true,
+      "last_file": true,
+      "verdict": "ok"
+    },
+    "Bearing2_3": {
+      "files": 533,
+      "windows": 6396,
+      "count_ok": true,
+      "first": true,
+      "second_file": true,
+      "middle_file": true,
+      "last_file": true,
+      "verdict": "ok"
+    },
+    "Bearing2_4": {
+      "files": 42,
+      "windows": 504,
+      "count_ok": true,
+      "first": true,
+      "second_file": true,
+      "middle_file": true,
+      "last_file": true,
+      "verdict": "ok"
+    },
+    "Bearing2_5": {
+      "files": 339,
+      "windows": 4068,
+      "count_ok": true,
+      "first": true,
+      "second_file": true,
+      "middle_file": true,
+      "last_file": true,
+      "verdict": "ok"
+    },
+    "Bearing1_1": {
+      "files": 123,
+      "windows": 1476,
+      "count_ok": true,
+      "first": true,
+      "second_file": true,
+      "middle_file": true,
+      "last_file": true,
+      "verdict": "ok"
+    },
+    "Bearing1_2": {
+      "files": 161,
+      "windows": 1932,
+      "count_ok": true,
+      "first": true,
+      "second_file": true,
+      "middle_file": true,
+      "last_file": true,
+      "verdict": "ok"
+    },
+    "Bearing2_1": {
+      "files": 491,
+      "windows": 5892,
+      "count_ok": true,
+      "first": true,
+      "second_file": true,
+      "middle_file": true,
+      "last_file": true,
+      "verdict": "ok"
+    },
+    "Bearing2_2": {
+      "files": 161,
+      "windows": 1932,
+      "count_ok": true,
+      "first": true,
+      "second_file": true,
+      "middle_file": true,
+      "last_file": true,
+      "verdict": "ok"
+    },
+    "Bearing3_1": {
+      "files": 2538,
+      "windows": 30456,
+      "count_ok": true,
+      "first": true,
+      "second_file": true,
+      "middle_file": true,
+      "last_file": true,
+      "verdict": "ok"
+    },
+    "Bearing3_2": {
+      "files": 2496,
+      "windows": 29952,
+      "count_ok": true,
+      "first": true,
+      "second_file": true,
+      "middle_file": true,
+      "last_file": true,
+      "verdict": "ok"
+    },
+    "Bearing3_3": {
+      "files": 371,
+      "windows": 4452,
+      "count_ok": true,
+      "first": true,
+      "second_file": true,
+      "middle_file": true,
+      "last_file": true,
+      "verdict": "ok"
+    },
+    "Bearing3_4": {
+      "files": 1515,
+      "windows": 18180,
+      "count_ok": true,
+      "first": true,
+      "second_file": true,
+      "middle_file": true,
+      "last_file": true,
+      "verdict": "ok"
+    },
+    "Bearing3_5": {
+      "files": 114,
+      "windows": 1368,
+      "count_ok": true,
+      "first": true,
+      "second_file": true,
+      "middle_file": true,
+      "last_file": true,
+      "verdict": "ok"
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+ "virkler": {
+  "assets": 68,
+  "signals": {
+   "condition": {
+    "1": {
+     "late": 5,
+     "bound": 4.80405828972917,
+     "without_alarm": 1,
+     "mean_waste": 0.06435736383962103
+    },
+    "4": {
+     "late": 9,
+     "bound": 14.88289982558334,
+     "without_alarm": 4,
+     "mean_waste": 0.064463552722662
+    },
+    "16": {
+     "late": 17,
+     "bound": 38.773268744002806,
+     "without_alarm": 16,
+     "mean_waste": 0.06461462824605904
+    }
+   },
+   "age": {
+    "1": {
+     "late": 4,
+     "bound": 4.80405828972917,
+     "without_alarm": 1,
+     "mean_waste": 0.1694194175674376
+    },
+    "4": {
+     "late": 6,
+     "bound": 14.88289982558334,
+     "without_alarm": 4,
+     "mean_waste": 0.17259463821077248
+    },
+    "16": {
+     "late": 16,
+     "bound": 38.773268744002806,
+     "without_alarm": 16,
+     "mean_waste": 0.1926873253414734
+    }
+   }
+  }
+ },
+ "isu": {
+  "assets": 251,
+  "signals": {
+   "condition": {
+    "1": {
+     "late": 3,
+     "bound": 6.104659313177599,
+     "without_alarm": 1,
+     "mean_waste": 0.26976936607421614
+    },
+    "4": {
+     "late": 5,
+     "bound": 20.08530391937706,
+     "without_alarm": 4,
+     "mean_waste": 0.27206168273118286
+    },
+    "16": {
+     "late": 20,
+     "bound": 59.5828851191777,
+     "without_alarm": 16,
+     "mean_waste": 0.2660948179280237
+    }
+   },
+   "age": {
+    "1": {
+     "late": 11,
+     "bound": 6.104659313177599,
+     "without_alarm": 1,
+     "mean_waste": 0.8162208625034648
+    },
+    "4": {
+     "late": 23,
+     "bound": 20.08530391937706,
+     "without_alarm": 4,
+     "mean_waste": 0.812036134108506
+    },
+    "16": {
+     "late": 32,
+     "bound": 59.5828851191777,
+     "without_alarm": 16,
+     "mean_waste": 0.8272452919213625
+    }
+   }
+  }
+ },
+ "cmapss": {
+  "assets": 381,
+  "signals": {
+   "condition": {
+    "1": {
+     "late": 7,
+     "bound": 6.521326801911412,
+     "without_alarm": 1,
+     "mean_waste": 0.16423757981814732
+    },
+    "4": {
+     "late": 12,
+     "bound": 21.751973874312316,
+     "without_alarm": 4,
+     "mean_waste": 0.16320054018862196
+    },
+    "16": {
+     "late": 21,
+     "bound": 66.24956493891871,
+     "without_alarm": 16,
+     "mean_waste": 0.16444292850173362
+    }
+   },
+   "age": {
+    "1": {
+     "late": 5,
+     "bound": 6.521326801911412,
+     "without_alarm": 1,
+     "mean_waste": 0.417941515769482
+    },
+    "4": {
+     "late": 10,
+     "bound": 21.751973874312316,
+     "without_alarm": 4,
+     "mean_waste": 0.41689487451023266
+    },
+    "16": {
+     "late": 19,
+     "bound": 66.24956493891871,
+     "without_alarm": 16,
+     "mean_waste": 0.42177130755872344
+    }
+   }
+  }
+ },
+ "pronostia": {
+  "assets": 17,
+  "signals": {
+   "S1": {
+    "1": {
+     "late": 5,
+     "bound": 3.439552522640758,
+     "without_alarm": 1,
+     "mean_waste": 0.6471744655744107
+    },
+    "4": {
+     "late": 8,
+     "bound": 9.424876757229697,
+     "without_alarm": 4,
+     "mean_waste": 0.5488418083186889
+    },
+    "16": {
+     "late": 16,
+     "bound": 16.941176470588236,
+     "without_alarm": 16,
+     "mean_waste": 0.2112676056338028
+    }
+   },
+   "S2": {
+    "1": {
+     "late": 6,
+     "bound": 3.439552522640758,
+     "without_alarm": 1,
+     "mean_waste": 0.5323206902847739
+    },
+    "4": {
+     "late": 9,
+     "bound": 9.424876757229697,
+     "without_alarm": 4,
+     "mean_waste": 0.5014974100389578
+    },
+    "16": {
+     "late": 16,
+     "bound": 16.941176470588236,
+     "without_alarm": 16,
+     "mean_waste": 0.7605633802816901
+    }
+   },
+   "age": {
+    "1": {
+     "late": 5,
+     "bound": 3.439552522640758,
+     "without_alarm": 1,
+     "mean_waste": 0.4295340440220473
+    },
+    "4": {
+     "late": 8,
+     "bound": 9.424876757229697,
+     "without_alarm": 4,
+     "mean_waste": 0.388414304466657
+    },
+    "16": {
+     "late": 16,
+     "bound": 16.941176470588236,
+     "without_alarm": 16,
+     "mean_waste": 0.5774647887323944
+    }
+   }
+  }
+ },
+ "xjtu": {
+  "assets": 15,
+  "signals": {
+   "S1": {
+    "1": {
+     "late": 2,
+     "bound": 3.3182289932289937,
+     "without_alarm": 1,
+     "mean_waste": 0.7208947455973261
+    },
+    "4": {
+     "late": 4,
+     "bound": 8.939582639582643,
+     "without_alarm": 4,
+     "mean_waste": 0.8929837294863479
+    }
+   },
+   "S2": {
+    "1": {
+     "late": 4,
+     "bound": 3.3182289932289937,
+     "without_alarm": 1,
+     "mean_waste": 0.36368850448477813
+    },
+    "4": {
+     "late": 6,
+     "bound": 8.939582639582643,
+     "without_alarm": 4,
+     "mean_waste": 0.4382975587993317
+    }
+   },
+   "age": {
+    "1": {
+     "late": 4,
+     "bound": 3.3182289932289937,
+     "without_alarm": 1,
+     "mean_waste": 0.6262613267454551
+    },
+    "4": {
+     "late": 6,
+     "bound": 8.939582639582643,
+     "without_alarm": 4,
+     "mean_waste": 0.6779427076167658
+    }
+   }
+  }
+ }
+}

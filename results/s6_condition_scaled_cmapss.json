@@ -1,0 +1,82 @@
+{
+  "provenance": {
+    "generated_at_utc": "2026-09-21T04:19:36+00:00",
+    "git_commit": "8ce8b03ad2d8d290ddd70ec9e9773728476b13d5",
+    "alpha": 0.1,
+    "lead": 0.05,
+    "iters": 300,
+    "seeds": [
+      123,
+      777,
+      42
+    ],
+    "confirmatory": true,
+    "primary_seed": 123,
+    "exploratory_seeds": [
+      42
+    ],
+    "disclosure": "seed 42 reserved units were read during a development smoke with a 20-iteration predictor; gates were fixed beforehand"
+  },
+  "summary": {
+    "123": {
+      "crc": {
+        "late": 0.06,
+        "hi": 0.11,
+        "waste": 0.22532921221572905,
+        "theta": 0.25
+      },
+      "crc_scaled": {
+        "late": 0.08,
+        "hi": 0.13,
+        "waste": 0.2162666365504265,
+        "theta": 0.25
+      },
+      "gates": {
+        "S6a": true,
+        "S6b": false,
+        "p": 0.10869658862244554,
+        "units_improved": 46
+      }
+    },
+    "777": {
+      "crc": {
+        "late": 0.12,
+        "hi": 0.19,
+        "waste": 0.15647060754708947,
+        "theta": 0.195
+      },
+      "crc_scaled": {
+        "late": 0.11,
+        "hi": 0.18,
+        "waste": 0.15917537818662822,
+        "theta": 0.195
+      },
+      "gates": {
+        "S6a": false,
+        "S6b": false,
+        "p": 0.004249712772041343,
+        "units_improved": 8
+      }
+    },
+    "42": {
+      "crc": {
+        "late": 0.08,
+        "hi": 0.14,
+        "waste": 0.18137135121040046,
+        "theta": 0.225
+      },
+      "crc_scaled": {
+        "late": 0.06,
+        "hi": 0.11,
+        "waste": 0.18609808115288615,
+        "theta": 0.23
+      },
+      "gates": {
+        "S6a": true,
+        "S6b": false,
+        "p": 0.022269106044119993,
+        "units_improved": 19
+      }
+    }
+  }
+}

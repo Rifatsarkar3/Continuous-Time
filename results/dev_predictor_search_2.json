@@ -1,0 +1,77 @@
+{
+  "pre_declared": true,
+  "attempt": 2,
+  "disclosure": "attempt 2 was declared after attempt 1 was run and reported; it fixes a diagnosed flaw (ungated asymmetry), it is not the original plan",
+  "seed": 42,
+  "alpha": 0.1,
+  "candidates": {
+    "baseline": [
+      0.0,
+      1.0,
+      false
+    ],
+    "both_g": [
+      4.0,
+      4.0,
+      true
+    ],
+    "strong_g": [
+      9.0,
+      9.0,
+      true
+    ],
+    "sharp_g": [
+      9.0,
+      20.0,
+      true
+    ]
+  },
+  "rule": "lowest LOO waste with LOO late <= alpha; baseline if none qualifies",
+  "results": {
+    "baseline": {
+      "mae": 0.17583600474498234,
+      "ll_mae": 0.2237146512119548,
+      "ll_bias": 0.2067055421669716,
+      "mal_max": 0.7972867488861084,
+      "mal_median": 0.3126983344554901,
+      "loo_late": 0.07352941176470588,
+      "loo_waste": 0.7713372427422334,
+      "declined": 0,
+      "n": 68
+    },
+    "both_g": {
+      "mae": 0.21651458027858858,
+      "ll_mae": 0.16047013512590536,
+      "ll_bias": 0.11169357279281877,
+      "mal_max": 0.8312299251556396,
+      "mal_median": 0.19861572980880737,
+      "loo_late": 0.07352941176470588,
+      "loo_waste": 0.6834800865994218,
+      "declined": 0,
+      "n": 68
+    },
+    "strong_g": {
+      "mae": 0.26038512867473235,
+      "ll_mae": 0.1206206222634172,
+      "ll_bias": 0.05612532078440606,
+      "mal_max": 0.806121826171875,
+      "mal_median": 0.1126687079668045,
+      "loo_late": 0.07352941176470588,
+      "loo_waste": 0.6926464689895511,
+      "declined": 0,
+      "n": 68
+    },
+    "sharp_g": {
+      "mae": 0.2854803685424366,
+      "ll_mae": 0.10871784475125161,
+      "ll_bias": 0.028277268254185663,
+      "mal_max": 0.7984448075294495,
+      "mal_median": 0.08042760193347931,
+      "loo_late": 0.07352941176470588,
+      "loo_waste": 0.704686769969104,
+      "declined": 0,
+      "n": 68
+    }
+  },
+  "winner": "both_g"
+}

@@ -1,0 +1,25 @@
+{
+  "device": {
+    "leadpoint": "cpu",
+    "ctgru": "cpu",
+    "dsaflite": "cuda"
+  },
+  "fit_seconds": {
+    "leadpoint": 0.0022280999983195215,
+    "ctgru": 1103.367301899998,
+    "dsaflite": 826.3332882000104
+  },
+  "inference_seconds": {
+    "leadpoint": 28.89429690000543,
+    "ctgru": 22.196323199998005,
+    "dsaflite": 28.95563260000199,
+    "n_bearings": 12
+  },
+  "n_params": {
+    "leadpoint": 28,
+    "ctgru": 7204,
+    "dsaflite": 192130
+  },
+  "train_speedup_vs_dsaflite": 370869.0313824549,
+  "inference_speedup_vs_dsaflite": 1.0021227614642718
+}

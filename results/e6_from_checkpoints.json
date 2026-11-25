@@ -1,0 +1,89 @@
+{
+  "alpha": 0.1,
+  "s1_gate": 0.15,
+  "cells": [
+    {
+      "arm": "ctgru",
+      "process": "full",
+      "late": 0.061764705882352944,
+      "hi": 0.14411764705882352,
+      "s1": true,
+      "waste": 0.7926008431788754,
+      "n_assets": 17
+    },
+    {
+      "arm": "ctgru",
+      "process": "mixture",
+      "late": 0.061764705882352944,
+      "hi": 0.13972426470588228,
+      "s1": true,
+      "waste": 0.7963460453518885,
+      "n_assets": 17
+    },
+    {
+      "arm": "ctgru",
+      "process": "sparse_shift",
+      "late": 0.07095588235294117,
+      "hi": 0.15258272058823524,
+      "s1": false,
+      "waste": 0.7884453876204242,
+      "n_assets": 17
+    },
+    {
+      "arm": "dsaflite",
+      "process": "full",
+      "late": 0.05845588235294117,
+      "hi": 0.1551654411764705,
+      "s1": false,
+      "waste": 0.6625293209655758,
+      "n_assets": 17
+    },
+    {
+      "arm": "dsaflite",
+      "process": "mixture",
+      "late": 0.06948529411764705,
+      "hi": 0.16397058823529412,
+      "s1": false,
+      "waste": 0.7126266864847446,
+      "n_assets": 17
+    },
+    {
+      "arm": "dsaflite",
+      "process": "sparse_shift",
+      "late": 0.05551470588235294,
+      "hi": 0.13602941176470587,
+      "s1": true,
+      "waste": 0.7115651047148276,
+      "n_assets": 17
+    },
+    {
+      "arm": "dann",
+      "process": "full",
+      "late": 0.07352941176470588,
+      "hi": 0.17647058823529413,
+      "s1": false,
+      "waste": 0.6489519984392889,
+      "n_assets": 17
+    },
+    {
+      "arm": "dann",
+      "process": "mixture",
+      "late": 0.07389705882352941,
+      "hi": 0.16287683823529406,
+      "s1": false,
+      "waste": 0.7068450081110795,
+      "n_assets": 17
+    },
+    {
+      "arm": "dann",
+      "process": "sparse_shift",
+      "late": 0.07536764705882353,
+      "hi": 0.16655330882352934,
+      "s1": false,
+      "waste": 0.6951690930061671,
+      "n_assets": 17
+    }
+  ],
+  "n_valid": 9,
+  "n_demonstrable": 3
+}

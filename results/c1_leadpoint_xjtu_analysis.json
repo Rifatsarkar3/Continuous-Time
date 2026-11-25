@@ -1,0 +1,368 @@
+{
+  "arms": {
+    "leadpoint_ridge": {
+      "waste_mean": 0.7341314734580616,
+      "late_rate": 0.05,
+      "late_upper": 0.5510032410369705,
+      "mae": 0.29808821971402893
+    },
+    "dsaflite": {
+      "waste_mean": 0.6815508695047661,
+      "late_rate": 0.05555555555555556,
+      "late_upper": 0.40460269660337206,
+      "mae": 0.24640099981585173
+    },
+    "ctgru": {
+      "waste_mean": 0.7391752197717627,
+      "late_rate": 0.09444444444444443,
+      "late_upper": 0.480891133806853,
+      "mae": 0.2163998437350045
+    }
+  },
+  "per_bearing": {
+    "leadpoint_ridge": {
+      "Bearing1_1": {
+        "waste": 0.883879783252875,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.20057114135782872
+      },
+      "Bearing2_1": {
+        "waste": 0.9836734731992086,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.2894715879178171
+      },
+      "Bearing3_3": {
+        "waste": 0.6058558576429883,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.4557144851665285
+      },
+      "Bearing1_4": {
+        "waste": 0.32162534693876904,
+        "late": 0.3333333333333333,
+        "certified": true,
+        "mae": 0.29891547991852224
+      },
+      "Bearing2_2": {
+        "waste": 0.7130208164453506,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.22574028315811115
+      },
+      "Bearing3_1": {
+        "waste": 0.8483116429609557,
+        "late": 0.08333333333333333,
+        "certified": true,
+        "mae": 0.322222171739364
+      },
+      "Bearing1_2": {
+        "waste": 0.7458333273728689,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.44668181899375375
+      },
+      "Bearing2_4": {
+        "waste": 0.4247967501481374,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.17898255001478192
+      },
+      "Bearing3_2": {
+        "waste": 0.9773547053337097,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.3966469573751175
+      },
+      "Bearing1_3": {
+        "waste": 0.8519108345111212,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.18048869578781201
+      },
+      "Bearing2_3": {
+        "waste": 0.8413220594326655,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.23697102726211958
+      },
+      "Bearing3_4": {
+        "waste": 0.5471158095945915,
+        "late": 0.25,
+        "certified": true,
+        "mae": 0.40421606924852177
+      },
+      "Bearing1_5": {
+        "waste": 0.665032684803009,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.24596612567003404
+      },
+      "Bearing2_5": {
+        "waste": 0.6590236648917198,
+        "late": 0.08333333333333333,
+        "certified": true,
+        "mae": 0.2962456448883308
+      },
+      "Bearing3_5": {
+        "waste": 0.943215345342954,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.2924892572117901
+      }
+    },
+    "dsaflite": {
+      "Bearing1_1": {
+        "waste": 0.6458333330228925,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.10599417832345574
+      },
+      "Bearing2_1": {
+        "waste": 0.7001700748999914,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.30527568118976794
+      },
+      "Bearing3_3": {
+        "waste": 0.11238738646109898,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.3649416419525539
+      },
+      "Bearing1_4": {
+        "waste": 0.6079545449465513,
+        "late": 0.25,
+        "certified": true,
+        "mae": 0.26857128296880517
+      },
+      "Bearing2_2": {
+        "waste": 0.6259114546701312,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.1403684822896533
+      },
+      "Bearing3_1": {
+        "waste": 0.40439823663715896,
+        "late": 0.5833333333333334,
+        "certified": true,
+        "mae": 0.25504762827520544
+      },
+      "Bearing1_2": {
+        "waste": 0.6520833373069763,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.17349490825190764
+      },
+      "Bearing2_4": {
+        "waste": 0.5304878105719885,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.1477935506016437
+      },
+      "Bearing3_2": {
+        "waste": 0.998129591345787,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.3474813444047815
+      },
+      "Bearing1_3": {
+        "waste": 0.33950371760874987,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.21533884209313914
+      },
+      "Bearing2_3": {
+        "waste": 0.8438087273389101,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.22776198448796467
+      },
+      "Bearing3_4": {
+        "waste": 0.932986568659544,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.25312565788472546
+      },
+      "Bearing1_5": {
+        "waste": 0.9133986942470074,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.20534602047761363
+      },
+      "Bearing2_5": {
+        "waste": 0.949211043616136,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.29206588445699433
+      },
+      "Bearing3_5": {
+        "waste": 0.9669985212385654,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.39340790957956445
+      }
+    },
+    "ctgru": {
+      "Bearing1_1": {
+        "waste": 0.8517759616176287,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.15974923346422856
+      },
+      "Bearing2_1": {
+        "waste": 0.9863945593436559,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.2087620777902617
+      },
+      "Bearing3_3": {
+        "waste": 0.7495495503147444,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.2512185726664552
+      },
+      "Bearing1_4": {
+        "waste": 0.0,
+        "late": 1.0,
+        "certified": true,
+        "mae": 0.3298296709748525
+      },
+      "Bearing2_2": {
+        "waste": 0.7692708224058151,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.15331420262091588
+      },
+      "Bearing3_1": {
+        "waste": 0.9513861536979675,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.23128673290826765
+      },
+      "Bearing1_2": {
+        "waste": 0.7463541626930237,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.1332029513834366
+      },
+      "Bearing2_4": {
+        "waste": 0.27032520435750484,
+        "late": 0.3333333333333333,
+        "certified": true,
+        "mae": 0.26737081833065496
+      },
+      "Bearing3_2": {
+        "waste": 0.7526386094590028,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.24943630579189083
+      },
+      "Bearing1_3": {
+        "waste": 0.930467093984286,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.08664113844799876
+      },
+      "Bearing2_3": {
+        "waste": 0.8316102673610052,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.18141179883800798
+      },
+      "Bearing3_4": {
+        "waste": 0.7623844106371204,
+        "late": 0.08333333333333333,
+        "certified": true,
+        "mae": 0.3432634441247186
+      },
+      "Bearing1_5": {
+        "waste": 0.7303921617567539,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.23540049414031017
+      },
+      "Bearing2_5": {
+        "waste": 0.8052268226941427,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.15256122149597137
+      },
+      "Bearing3_5": {
+        "waste": 0.9498525162537893,
+        "late": 0.0,
+        "certified": true,
+        "mae": 0.2625489930470974
+      }
+    }
+  },
+  "lp_minus_dsaflite": {
+    "n": 15,
+    "mean": 0.05258060395329568,
+    "median": -0.002486667906244633,
+    "sd": 0.29326084815672765,
+    "ci95": [
+      -0.10982184061955762,
+      0.21498304852614897
+    ],
+    "upper_one_sided_95": 0.18594634764805912,
+    "perm_p_two_sided": 0.4930419921875,
+    "lp_lower": 8,
+    "lp_higher": 7
+  },
+  "lp_minus_ctgru": {
+    "n": 15,
+    "mean": -0.005043746313701073,
+    "median": -0.006637170910835266,
+    "sd": 0.1442200534783999,
+    "ci95": [
+      -0.08491014985353705,
+      0.07482265722613492
+    ],
+    "upper_one_sided_95": 0.06054296534160352,
+    "perm_p_two_sided": 0.89483642578125,
+    "lp_lower": 10,
+    "lp_higher": 5
+  },
+  "fixed_sequence": [
+    {
+      "test": "S1 non-inferiority vs DSAFLite",
+      "result": "FAIL"
+    },
+    {
+      "test": "S2 superiority vs CT-GRU",
+      "result": "NOT TESTED"
+    },
+    {
+      "test": "S3 superiority vs DSAFLite",
+      "result": "NOT TESTED"
+    }
+  ],
+  "u2_signal": false,
+  "timing": {
+    "device": {
+      "leadpoint": "cpu",
+      "ctgru": "cpu",
+      "dsaflite": "cuda"
+    },
+    "fit_seconds": {
+      "leadpoint": 0.0022280999983195215,
+      "ctgru": 1103.367301899998,
+      "dsaflite": 826.3332882000104
+    },
+    "inference_seconds": {
+      "leadpoint": 28.89429690000543,
+      "ctgru": 22.196323199998005,
+      "dsaflite": 28.95563260000199,
+      "n_bearings": 12
+    },
+    "n_params": {
+      "leadpoint": 28,
+      "ctgru": 7204,
+      "dsaflite": 192130
+    },
+    "train_speedup_vs_dsaflite": 370869.0313824549,
+    "inference_speedup_vs_dsaflite": 1.0021227614642718
+  }
+}
